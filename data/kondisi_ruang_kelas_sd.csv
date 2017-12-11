@@ -1,0 +1,511 @@
+KODE_KAB,KABUPATEN,JENJANG_PENDIDIKAN,PCT_BERAT
+1107,Aceh Barat,Jenjang Pendidikan SD,7.677
+1112,Aceh Barat Daya,Jenjang Pendidikan SD,19.5301
+1104,Aceh Tenggara,Jenjang Pendidikan SD,9.7628
+1105,Aceh Timur,Jenjang Pendidikan SD,12.7476
+1116,Aceh Jaya,Jenjang Pendidikan SD,8.189
+1102,Aceh Singkil,Jenjang Pendidikan SD,20.3274
+1114,Aceh Tamiang,Jenjang Pendidikan SD,4.5008
+1108,Aceh Besar,Jenjang Pendidikan SD,4.7619
+1103,Aceh Selatan,Jenjang Pendidikan SD,14.9512
+1106,Aceh Tengah,Jenjang Pendidikan SD,11.0143
+1111,Aceh Utara,Jenjang Pendidikan SD,16.394
+1110,Bireuen,Jenjang Pendidikan SD,14.8064
+1117,Bener Meriah,Jenjang Pendidikan SD,1.5476
+1113,Gayo Lues,Jenjang Pendidikan SD,5.7003
+1115,Nagan Raya,Jenjang Pendidikan SD,7.1179
+1109,Pidie,Jenjang Pendidikan SD,12.9542
+1101,Simeulue,Jenjang Pendidikan SD,13.9597
+5103,Badung,Jenjang Pendidikan SD,3.0398
+5108,Buleleng,Jenjang Pendidikan SD,2.4261
+5106,Bangli,Jenjang Pendidikan SD,1.9084
+5104,Gianyar,Jenjang Pendidikan SD,2.487
+5101,Jembrana,Jenjang Pendidikan SD,6.7944
+5107,Karang Asem,Jenjang Pendidikan SD,3.8807
+5105,Klungkung,Jenjang Pendidikan SD,4.0795
+5102,Tabanan,Jenjang Pendidikan SD,1.9468
+1901,Bangka,Jenjang Pendidikan SD,4.4898
+1903,Bangka Barat,Jenjang Pendidikan SD,3.0755
+1902,Belitung,Jenjang Pendidikan SD,11.3995
+1904,Bangka Tengah,Jenjang Pendidikan SD,6.1249
+1905,Bangka Selatan,Jenjang Pendidikan SD,5.3145
+1906,Belitung Timur,Jenjang Pendidikan SD,2.8264
+1701,Bengkulu Selatan,Jenjang Pendidikan SD,13.6364
+1703,Bengkulu Utara,Jenjang Pendidikan SD,13.3136
+1704,Kaur,Jenjang Pendidikan SD,9.2677
+1708,Kepahiang,Jenjang Pendidikan SD,8.6957
+1707,Lebong,Jenjang Pendidikan SD,9.0909
+1706,Muko-muko,Jenjang Pendidikan SD,5.9621
+1702,Rejang Lebong,Jenjang Pendidikan SD,7.8004
+1705,Seluma,Jenjang Pendidikan SD,21.2978
+3602,Lebak,Jenjang Pendidikan SD,15.8947
+3601,Pandeglang,Jenjang Pendidikan SD,7.0157
+3604,Serang,Jenjang Pendidikan SD,12.2571
+3671,Kota Tangerang,Jenjang Pendidikan SD,3.1457
+3603,Tangerang,Jenjang Pendidikan SD,6.6136
+7504,Bone Bolango,Jenjang Pendidikan SD,20.5587
+7501,Boalemo,Jenjang Pendidikan SD,11.4407
+7502,Gorontalo,Jenjang Pendidikan SD,6.05635
+7505,Gorontalo Utara,Jenjang Pendidikan SD,9.9408
+7503,Pohuwato,Jenjang Pendidikan SD,3.6514
+9101,Fak-Fak,Jenjang Pendidikan SD,18.2192
+9102,Kaimana,Jenjang Pendidikan SD,10.3873
+9105,Manokwari,Jenjang Pendidikan SD,11.7978
+9108,Raja Ampat,Jenjang Pendidikan SD,33.6026
+9171,Kota Sorong,Jenjang Pendidikan SD,9.2769
+9107,Sorong,Jenjang Pendidikan SD,14.5205
+9106,Sorong Selatan,Jenjang Pendidikan SD,12.3932
+9104,Teluk Bintuni,Jenjang Pendidikan SD,12.4197
+9103,Teluk Wondama,Jenjang Pendidikan SD,5.5882
+1504,Batang Hari,Jenjang Pendidikan SD,6.0887
+1509,Bungo,Jenjang Pendidikan SD,11.1823
+1501,Kerinci,Jenjang Pendidikan SD,11.8758
+1505,Muaro Jambi,Jenjang Pendidikan SD,15.8983
+1503,Sarolangun,Jenjang Pendidikan SD,15.2405
+1502,Merangin,Jenjang Pendidikan SD,5.7922
+1508,Tebo,Jenjang Pendidikan SD,7.9533
+1507,Tanjung Jabung Barat,Jenjang Pendidikan SD,17.8157
+1506,Tanjung Jabung Timur,Jenjang Pendidikan SD,19.4564
+3511,Bondowoso,Jenjang Pendidikan SD,16.0782
+3522,Bojonegoro,Jenjang Pendidikan SD,9.576
+3526,Bangkalan,Jenjang Pendidikan SD,15.9903
+3505,Blitar,Jenjang Pendidikan SD,9.4319
+3510,Banyuwangi,Jenjang Pendidikan SD,12.0803
+3525,Gresik,Jenjang Pendidikan SD,14.5401
+3509,Jember,Jenjang Pendidikan SD,12.7856
+3517,Jombang,Jenjang Pendidikan SD,7.5145
+3506,Kediri,Jenjang Pendidikan SD,7.6754
+3524,Lamongan,Jenjang Pendidikan SD,10.2647
+3508,Lumajang,Jenjang Pendidikan SD,8.8794
+3507,Malang,Jenjang Pendidikan SD,4.5248
+3516,Mojokerto,Jenjang Pendidikan SD,7.9233
+3519,Madiun,Jenjang Pendidikan SD,9.5804
+3520,Magetan,Jenjang Pendidikan SD,6.6325
+3518,Nganjuk,Jenjang Pendidikan SD,13.8822
+3521,Ngawi,Jenjang Pendidikan SD,7.8031
+3501,Pacitan,Jenjang Pendidikan SD,3.4773
+3502,Ponorogo,Jenjang Pendidikan SD,6.3562
+3528,Pamekasan,Jenjang Pendidikan SD,15.9787
+3513,Probolinggo,Jenjang Pendidikan SD,9.2506
+3514,Pasuruan,Jenjang Pendidikan SD,7.6447
+3527,Sampang,Jenjang Pendidikan SD,12.8962
+3512,Situbondo,Jenjang Pendidikan SD,6.464
+3515,Sidoarjo,Jenjang Pendidikan SD,5.9277
+3529,Sumenep,Jenjang Pendidikan SD,15.9743
+3523,Tuban,Jenjang Pendidikan SD,8.1959
+3504,Tulungagung,Jenjang Pendidikan SD,6.5166
+3503,Trenggalek,Jenjang Pendidikan SD,6.435
+3204,Bandung,Jenjang Pendidikan SD,24.562
+3271,Kota Bogor,Jenjang Pendidikan SD,2.5105
+3275,Kota Bekasi,Jenjang Pendidikan SD,4.3967
+3273,Kota Bandung,Jenjang Pendidikan SD,6.1215
+3201,Bogor,Jenjang Pendidikan SD,6.1139
+3216,Bekasi,Jenjang Pendidikan SD,8.8192
+3203,Cianjur,Jenjang Pendidikan SD,14.8222
+3274,Kota Cirebon,Jenjang Pendidikan SD,7.9602
+3209,Cirebon,Jenjang Pendidikan SD,7.4961
+3207,Ciamis,Jenjang Pendidikan SD,6.9082
+3205,Garut,Jenjang Pendidikan SD,10.8777
+3212,Indramayu,Jenjang Pendidikan SD,16.4763
+3215,Karawang,Jenjang Pendidikan SD,17.3145
+3208,Kuningan,Jenjang Pendidikan SD,19.9508
+3210,Majalengka,Jenjang Pendidikan SD,10.1386
+3214,Purwakarta,Jenjang Pendidikan SD,9.87
+3213,Subang,Jenjang Pendidikan SD,13.634
+3211,Sumedang,Jenjang Pendidikan SD,11.8486
+3272,Kota Sukabumi,Jenjang Pendidikan SD,3.7456
+3202,Sukabumi,Jenjang Pendidikan SD,15.406
+3206,Tasikmalaya,Jenjang Pendidikan SD,13.8881
+3278,Kota Tasikmalaya,Jenjang Pendidikan SD,5.1526
+3316,Blora,Jenjang Pendidikan SD,6.2452
+3304,Banjarnegara,Jenjang Pendidikan SD,4.9474
+3309,Boyolali,Jenjang Pendidikan SD,4.2316
+3329,Brebes,Jenjang Pendidikan SD,9.5528
+3325,Batang,Jenjang Pendidikan SD,4.0664
+3302,Banyumas,Jenjang Pendidikan SD,6.2458
+3301,Cilacap,Jenjang Pendidikan SD,6.6646
+3321,Demak,Jenjang Pendidikan SD,12.4671
+3315,Grobogan,Jenjang Pendidikan SD,16.6028
+3320,Jepara,Jenjang Pendidikan SD,3.4056
+3313,Karanganyar,Jenjang Pendidikan SD,2.4456
+3305,Kebumen,Jenjang Pendidikan SD,7.9977
+3310,Klaten,Jenjang Pendidikan SD,11.2102
+3324,Kendal,Jenjang Pendidikan SD,9.0835
+3319,Kudus,Jenjang Pendidikan SD,6.4673
+3308,Magelang,Jenjang Pendidikan SD,8.2207
+3318,Pati,Jenjang Pendidikan SD,16.3455
+3303,Purbalingga,Jenjang Pendidikan SD,5.3603
+3327,Pemalang,Jenjang Pendidikan SD,7.1599
+3375,Kota Pekalongan,Jenjang Pendidikan SD,3.778
+3326,Pekalongan,Jenjang Pendidikan SD,4.559
+3306,Purworejo,Jenjang Pendidikan SD,7.2342
+3317,Rembang,Jenjang Pendidikan SD,6.4297
+3314,Sragen,Jenjang Pendidikan SD,9.5026
+3311,Sukoharjo,Jenjang Pendidikan SD,3.5082
+3374,Kota Semarang,Jenjang Pendidikan SD,2.7267
+3322,Semarang,Jenjang Pendidikan SD,3.6627
+3323,Temanggung,Jenjang Pendidikan SD,10.1878
+3376,Kota Tegal,Jenjang Pendidikan SD,4.2373
+3328,Tegal,Jenjang Pendidikan SD,9.0741
+3312,Wonogiri,Jenjang Pendidikan SD,10.3954
+3307,Wonosobo,Jenjang Pendidikan SD,6.9675
+6102,Bengkayang,Jenjang Pendidikan SD,18.6499
+6106,Ketapang,Jenjang Pendidikan SD,11.5373
+6108,Kapuas Hulu,Jenjang Pendidikan SD,9.0026
+6103,Landak,Jenjang Pendidikan SD,17.3084
+6110,Melawi,Jenjang Pendidikan SD,23.5744
+6109,Sekadau,Jenjang Pendidikan SD,5.9917
+6107,Sintang,Jenjang Pendidikan SD,21.1765
+6101,Sambas,Jenjang Pendidikan SD,10.6213
+6105,Sanggau,Jenjang Pendidikan SD,7.3116
+6405,Berau,Jenjang Pendidikan SD,2.2709
+6502,Bulungan,Jenjang Pendidikan SD,18.4735
+6403,Kutai Kartanegara,Jenjang Pendidikan SD,6.3057
+1207,Labuhan Batu,Jenjang Pendidikan SD,3.3365
+6404,Kutai Timur,Jenjang Pendidikan SD,4.8072
+6501,Malinau,Jenjang Pendidikan SD,8.8023
+6504,Nunukan,Jenjang Pendidikan SD,6.8452
+6401,Paser,Jenjang Pendidikan SD,7.162
+6409,Penajam Paser Utara,Jenjang Pendidikan SD,1.7621
+2101,Karimun,Jenjang Pendidikan SD,5.5708
+2104,Lingga,Jenjang Pendidikan SD,6.746
+2103,Natuna,Jenjang Pendidikan SD,6.789
+6311,Balangan,Jenjang Pendidikan SD,1.8467
+6304,Barito Kuala,Jenjang Pendidikan SD,8.0357
+6306,Hulu Sungai Selatan,Jenjang Pendidikan SD,4.4532
+6307,Hulu Sungai Tengah,Jenjang Pendidikan SD,3.5077
+6308,Hulu Sungai Utara,Jenjang Pendidikan SD,2.3217
+6302,Kota Baru,Jenjang Pendidikan SD,7.2542
+6309,Tabalong,Jenjang Pendidikan SD,9.0675
+6301,Tanah Laut,Jenjang Pendidikan SD,18.1006
+6310,Tanah Bumbu,Jenjang Pendidikan SD,6.6308
+6305,Tapin,Jenjang Pendidikan SD,3.6477
+6204,Barito Selatan,Jenjang Pendidikan SD,6.8352
+6212,Barito Timur,Jenjang Pendidikan SD,7.3355
+6205,Barito Utara,Jenjang Pendidikan SD,8.0512
+6211,Gunung Mas,Jenjang Pendidikan SD,10.4895
+6203,Kapuas,Jenjang Pendidikan SD,14.1678
+6201,Kotawaringin Barat,Jenjang Pendidikan SD,5.3464
+6209,Katingan,Jenjang Pendidikan SD,2.6576
+6202,Kotawaringin Timur,Jenjang Pendidikan SD,6.701
+6207,Lamandau,Jenjang Pendidikan SD,7.5145
+6213,Murung Raya,Jenjang Pendidikan SD,8.8702
+6210,Pulang Pisau,Jenjang Pendidikan SD,14.6514
+6208,Seruyan,Jenjang Pendidikan SD,5.8921
+6206,Sukamara,Jenjang Pendidikan SD,5.8496
+1801,Lampung Barat,Jenjang Pendidikan SD,15.1418
+1804,Lampung Timur,Jenjang Pendidikan SD,15.2515
+1803,Lampung Selatan,Jenjang Pendidikan SD,9.0655
+1805,Lampung Tengah,Jenjang Pendidikan SD,12.1872
+1806,Lampung Utara,Jenjang Pendidikan SD,19.6683
+1802,Tanggamus,Jenjang Pendidikan SD,13.8691
+1808,Tulang Bawang,Jenjang Pendidikan SD,17.4622
+1807,Way Kanan,Jenjang Pendidikan SD,22.9694
+8171,Kota Ambon,Jenjang Pendidikan SD,9.7064
+8104,Buru,Jenjang Pendidikan SD,11.4914
+8105,Kepulauan Aru,Jenjang Pendidikan SD,6.7352
+8102,Maluku Tenggara,Jenjang Pendidikan SD,9.8083
+8103,Maluku Tengah,Jenjang Pendidikan SD,8.4579
+8101,Maluku Tenggara Barat,Jenjang Pendidikan SD,22.4515
+8106,Seram Bagian Barat,Jenjang Pendidikan SD,18.4134
+8107,Seram Bagian Timur,Jenjang Pendidikan SD,8.6823
+8201,Halmahera Barat,Jenjang Pendidikan SD,11.3225
+8206,Halmahera Timur,Jenjang Pendidikan SD,21.1878
+8204,Halmahera Selatan,Jenjang Pendidikan SD,24.5873
+8202,Halmahera Tengah,Jenjang Pendidikan SD,12.6087
+8205,halmahera Utara,Jenjang Pendidikan SD,17.5266
+8203,Kepulauan Sula,Jenjang Pendidikan SD,18.7307
+5206,Bima,Jenjang Pendidikan SD,19.3449
+5205,Dompu,Jenjang Pendidikan SD,21.6362
+5201,Lombok Barat,Jenjang Pendidikan SD,6.9151
+5203,Lombok Timur,Jenjang Pendidikan SD,12.1434
+5202,Lombok Tengah,Jenjang Pendidikan SD,17.0641
+5207,Sumbawa Barat,Jenjang Pendidikan SD,4.1609
+5204,Sumbawa,Jenjang Pendidikan SD,11.8967
+5307,Alor,Jenjang Pendidikan SD,35.2723
+5306,Belu,Jenjang Pendidikan SD,12.4659
+5311,Ende,Jenjang Pendidikan SD,18.1453
+5309,Flores Timur,Jenjang Pendidikan SD,15.456
+6402,Kutai Barat,Jenjang Pendidikan SD,3.7429
+5303,Kupang,Jenjang Pendidikan SD,23.2093
+5308,Lembata,Jenjang Pendidikan SD,32.3232
+5313,Manggarai,Jenjang Pendidikan SD,13.1506
+5315,Manggarai Barat,Jenjang Pendidikan SD,25.2982
+5312,Ngada,Jenjang Pendidikan SD,21.8274
+5314,Rote-Ndao,Jenjang Pendidikan SD,20.4934
+5301,Sumba Barat,Jenjang Pendidikan SD,32.9167
+5302,Sumba Timur,Jenjang Pendidikan SD,14.8601
+5304,Timor Tengah Selatan,Jenjang Pendidikan SD,20.2271
+5305,Timor Tengah Utara,Jenjang Pendidikan SD,22.7117
+9415,Asmat,Jenjang Pendidikan SD,9.5588
+9413,Boven Digoel,Jenjang Pendidikan SD,10.1106
+9409,Biak Numfor,Jenjang Pendidikan SD,10.0271
+9420,Keerom,Jenjang Pendidikan SD,9.7156
+9401,Merauke,Jenjang Pendidikan SD,11.5877
+9412,Mimika,Jenjang Pendidikan SD,11.4504
+9414,Mappi,Jenjang Pendidikan SD,21.6949
+9404,Nabire,Jenjang Pendidikan SD,13.9381
+9410,Paniai,Jenjang Pendidikan SD,23.4234
+9417,Pegunungan Bintang,Jenjang Pendidikan SD,2.7624
+9411,Puncak Jaya,Jenjang Pendidikan SD,3.8217
+9419,Sarmi,Jenjang Pendidikan SD,14.6402
+9427,Supiori,Jenjang Pendidikan SD,11.5226
+9418,Tolikara,Jenjang Pendidikan SD,1.0526
+9426,Waropen,Jenjang Pendidikan SD,26.4808
+9416,Yahukimo,Jenjang Pendidikan SD,5.7273
+1408,Bengkalis,Jenjang Pendidikan SD,6.9035
+1403,Indragiri Hilir,Jenjang Pendidikan SD,10.1461
+1402,Indragiri Hulu,Jenjang Pendidikan SD,9.2437
+1406,Kampar,Jenjang Pendidikan SD,11.5112
+1401,Kuantan Singingi,Jenjang Pendidikan SD,3.9979
+1404,Pelalawan,Jenjang Pendidikan SD,3.0581
+1407,Rokan Hulu,Jenjang Pendidikan SD,9.0819
+1409,Rokan Hilir,Jenjang Pendidikan SD,11.7851
+1405,Siak,Jenjang Pendidikan SD,6.8045
+1307,Agam,Jenjang Pendidikan SD,5.4804
+1311,Dharmasraya,Jenjang Pendidikan SD,7.6019
+1301,Kepulauan Mentawai,Jenjang Pendidikan SD,10.7539
+1308,Lima Puluh Koto,Jenjang Pendidikan SD,7.9536
+1312,Pasaman Barat,Jenjang Pendidikan SD,11.5541
+1309,Pasaman,Jenjang Pendidikan SD,5.9474
+1306,Padang Pariaman,Jenjang Pendidikan SD,4.639
+1302,Pesisir Selatan,Jenjang Pendidikan SD,6.9178
+1310,Solok Selatan,Jenjang Pendidikan SD,11.0169
+1372,Kota Solok,Jenjang Pendidikan SD,5.3371
+1303,Solok,Jenjang Pendidikan SD,10.3379
+1305,Tanah Datar,Jenjang Pendidikan SD,3.4912
+7311,Bone,Jenjang Pendidikan SD,7.5926
+7310,Barru,Jenjang Pendidikan SD,5.7409
+7303,Bantaeng,Jenjang Pendidikan SD,19.8529
+7302,Bulukumba,Jenjang Pendidikan SD,10.6276
+7316,Enrekang,Jenjang Pendidikan SD,28.689
+7306,Gowa,Jenjang Pendidikan SD,14.1506
+7304,Jeneponto,Jenjang Pendidikan SD,20.5597
+7325,Luwu Timur,Jenjang Pendidikan SD,5.4915
+7322,Luwu Utara,Jenjang Pendidikan SD,16.6192
+7317,Luwu,Jenjang Pendidikan SD,20.2
+7308,Maros,Jenjang Pendidikan SD,7.3001
+7315,Pinrang,Jenjang Pendidikan SD,8.4615
+7309,Pangkajene Kepulauan,Jenjang Pendidikan SD,11.9247
+7307,Sinjai,Jenjang Pendidikan SD,13.9928
+7312,Soppeng,Jenjang Pendidikan SD,6.4832
+7314,Sidenreng Rappang,Jenjang Pendidikan SD,25.6739
+7305,Takalar,Jenjang Pendidikan SD,10.8426
+7318,Tana Toraja,Jenjang Pendidikan SD,13.8304
+7313,Wajo,Jenjang Pendidikan SD,11.4228
+7406,Bombana,Jenjang Pendidikan SD,24
+7401,Buton,Jenjang Pendidikan SD,9.7006
+7404,Kolaka,Jenjang Pendidikan SD,18.3824
+7405,Konawe Selatan,Jenjang Pendidikan SD,24.2317
+7411,Kolaka Timur,Jenjang Pendidikan SD,14.2094
+7408,Kolaka Utara,Jenjang Pendidikan SD,23.7918
+7402,Muna,Jenjang Pendidikan SD,16.6232
+7407,Wakatobi,Jenjang Pendidikan SD,9.1033
+1607,Banyuasin,Jenjang Pendidikan SD,12.9953
+1604,Lahat,Jenjang Pendidikan SD,7.3617
+1606,Musi Banyuasin,Jenjang Pendidikan SD,9.6514
+1603,Muara Enim,Jenjang Pendidikan SD,4.371
+1605,Musi Rawas,Jenjang Pendidikan SD,9.4713
+1602,Ogan Komering Ilir,Jenjang Pendidikan SD,5.8858
+1610,Ogan Ilir,Jenjang Pendidikan SD,20.745
+1608,Ogan Komering Ulu Selatan,Jenjang Pendidikan SD,15.6184
+1609,Ogan Komering Ulu Timur,Jenjang Pendidikan SD,9.4198
+1601,Ogan Komering Ulu,Jenjang Pendidikan SD,6.5977
+7603,Mamasa,Jenjang Pendidikan SD,43.5236
+7601,Majene,Jenjang Pendidikan SD,8.5209
+7604,Mamuju,Jenjang Pendidikan SD,15.9799
+7605,Mamuju Utara,Jenjang Pendidikan SD,14.6965
+7602,Polewali Mandar,Jenjang Pendidikan SD,12.7328
+7202,Banggai,Jenjang Pendidikan SD,16.5626
+7201,Banggai Kepulauan,Jenjang Pendidikan SD,21.2786
+7207,Buol,Jenjang Pendidikan SD,17.9463
+7205,Donggala,Jenjang Pendidikan SD,11.5152
+7203,Morowali,Jenjang Pendidikan SD,12.381
+7204,Poso,Jenjang Pendidikan SD,11.0175
+7206,Tolitoli,Jenjang Pendidikan SD,13.8223
+7209,Tojo Una-Una,Jenjang Pendidikan SD,12.0789
+1208,Asahan,Jenjang Pendidikan SD,8.0211
+1210,Dairi,Jenjang Pendidikan SD,3.12
+1212,Deli Serdang,Jenjang Pendidikan SD,5.8594
+1215,Humbang Hasudutan,Jenjang Pendidikan SD,11.7264
+1211,Karo,Jenjang Pendidikan SD,10.7707
+1213,Langkat,Jenjang Pendidikan SD,6.4697
+1222,Labuhan Batu Selatan,Jenjang Pendidikan SD,9.2233
+1202,Mandailing Natal,Jenjang Pendidikan SD,8.3475
+1201,Nias,Jenjang Pendidikan SD,14.876
+1214,Nias Selatan,Jenjang Pendidikan SD,25.6619
+1216,Pakpak Bharat,Jenjang Pendidikan SD,3.8929
+1217,Samosir,Jenjang Pendidikan SD,6.6315
+1218,Serdang Bedagai,Jenjang Pendidikan SD,8.9599
+1209,Simalungun,Jenjang Pendidikan SD,7.8498
+1206,Toba Samosir,Jenjang Pendidikan SD,4.9518
+1203,Tapanuli Selatan,Jenjang Pendidikan SD,9.3061
+1204,Tapanuli Tengah,Jenjang Pendidikan SD,14.975
+1205,Tapanuli Utara,Jenjang Pendidikan SD,5.443
+7101,Bolaang Mongondow,Jenjang Pendidikan SD,21.2121
+7104,Kepulauan Talaud,Jenjang Pendidikan SD,13.4615
+7102,Minahasa,Jenjang Pendidikan SD,12.9047
+7105,Minahasa Selatan,Jenjang Pendidikan SD,6.4201
+3402,Bantul,Jenjang Pendidikan SD,3.1393
+3403,Gunung Kidul,Jenjang Pendidikan SD,4.0488
+3401,Kulon Progo,Jenjang Pendidikan SD,3.3317
+3404,Sleman,Jenjang Pendidikan SD,1.3008
+7211,Banggai Laut,Jenjang Pendidikan SD,29.3358
+1219,Batubara,Jenjang Pendidikan SD,5.8082
+1709,Bengkulu Tengah,Jenjang Pendidikan SD,7.0444
+2102,Bintan,Jenjang Pendidikan SD,10.2999
+7110,Bolaang Mongondow Selatan,Jenjang Pendidikan SD,19.457
+7111,Bolaang Mongondow Timur,Jenjang Pendidikan SD,13.5338
+7107,Bolaang Mongondow Utara,Jenjang Pendidikan SD,9.2896
+8109,Buru Selatan,Jenjang Pendidikan SD,16.8459
+7415,Buton Selatan,Jenjang Pendidikan SD,31.7308
+7414,Buton Tengah,Jenjang Pendidikan SD,19.2661
+7409,Buton Utara,Jenjang Pendidikan SD,6.5737
+9436,Deiyai,Jenjang Pendidikan SD,7.0707
+9434,Dogiyai,Jenjang Pendidikan SD,31.7191
+1611,Empat Lawang,Jenjang Pendidikan SD,6.5098
+9435,Intan Jaya,Jenjang Pendidikan SD,9.5506
+9402,Jaya Wijaya,Jenjang Pendidikan SD,16.6237
+6111,Kayong Utara,Jenjang Pendidikan SD,5.6787
+7103,Kep. Sangihe,Jenjang Pendidikan SD,12.0623
+2105,Kepulauan Anambas,Jenjang Pendidikan SD,9.1811
+1410,Kepulauan Meranti,Jenjang Pendidikan SD,11.6625
+8207,Kepulauan Morotai,Jenjang Pendidikan SD,8.3333
+7301,Kepulauan Selayar,Jenjang Pendidikan SD,5.9406
+3101,Kepulauan Seribu,Jenjang Pendidikan SD,12.5
+7108,Kepulauan Sitaro,Jenjang Pendidikan SD,10.8661
+9408,Kepulauan Yapen,Jenjang Pendidikan SD,35.0242
+7403,Konawe,Jenjang Pendidikan SD,23.4266
+7412,Konawe Kepulauan,Jenjang Pendidikan SD,15
+7410,Konawe Utara,Jenjang Pendidikan SD,8.5484
+6471,Kota Balikpapan,Jenjang Pendidikan SD,1.5455
+1171,Kota Banda Aceh,Jenjang Pendidikan SD,2.6379
+1871,Kota Bandar Lampung,Jenjang Pendidikan SD,3.9432
+6303,Kota Banjar,Jenjang Pendidikan SD,10.3917
+6372,Kota Banjarbaru,Jenjang Pendidikan SD,2.2013
+6371,Kota Banjarmasin,Jenjang Pendidikan SD,8.071
+2171,Kota Batam,Jenjang Pendidikan SD,1.5401
+3579,Kota Batu,Jenjang Pendidikan SD,1.4493
+7472,Kota Baubau,Jenjang Pendidikan SD,9.6
+1771,Kota Bengkulu,Jenjang Pendidikan SD,8.5232
+5272,Kota Bima,Jenjang Pendidikan SD,8.8359
+1276,Kota Binjai,Jenjang Pendidikan SD,4.0062
+7172,Kota Bitung,Jenjang Pendidikan SD,6.6345
+3572,Kota Blitar,Jenjang Pendidikan SD,4.4218
+6474,Kota Bontang,Jenjang Pendidikan SD,2.7157
+1375,Kota Bukittinggi,Jenjang Pendidikan SD,1.9802
+3672,Kota Cilegon,Jenjang Pendidikan SD,2.2742
+3277,Kota Cimahi,Jenjang Pendidikan SD,3.5743
+5171,Kota Denpasar,Jenjang Pendidikan SD,3.5007
+3276,Kota Depok,Jenjang Pendidikan SD,5.688
+1473,Kota Dumai,Jenjang Pendidikan SD,6.4823
+1278,Kota Gunungsitoli,Jenjang Pendidikan SD,13.2948
+3174,Kota Jakarta Barat,Jenjang Pendidikan SD,2.9155
+3173,Kota Jakarta Pusat,Jenjang Pendidikan SD,6.7545
+3171,Kota Jakarta Selatan,Jenjang Pendidikan SD,3.9109
+3172,Kota Jakarta Timur,Jenjang Pendidikan SD,3.5781
+3175,Kota Jakarta Utara,Jenjang Pendidikan SD,6.621
+1571,Kota Jambi,Jenjang Pendidikan SD,15.4329
+9403,Kota Jayapura,Jenjang Pendidikan SD,12.9328
+3571,Kota Kediri,Jenjang Pendidikan SD,7.8
+7471,Kota Kendari,Jenjang Pendidikan SD,11.7219
+7174,Kota Kotamobagu,Jenjang Pendidikan SD,15.1639
+5371,Kota Kupang,Jenjang Pendidikan SD,4.4046
+1173,Kota Langsa,Jenjang Pendidikan SD,10.1974
+1174,Kota Lhokseumawe,Jenjang Pendidikan SD,3.9185
+1674,Kota Lubuk Linggau,Jenjang Pendidikan SD,15.6455
+3577,Kota Madiun,Jenjang Pendidikan SD,4.4728
+3371,Kota Magelang,Jenjang Pendidikan SD,1.9469
+7371,Kota Makassar,Jenjang Pendidikan SD,5.7564
+3573,Kota Malang,Jenjang Pendidikan SD,1.1922
+7171,Kota Manado,Jenjang Pendidikan SD,5.3688
+5271,Kota Mataram,Jenjang Pendidikan SD,7.5877
+1275,Kota Medan,Jenjang Pendidikan SD,2.5813
+1872,Kota Metro,Jenjang Pendidikan SD,6.0317
+3576,Kota Mojokerto,Jenjang Pendidikan SD,2.619
+1371,Kota Padang,Jenjang Pendidikan SD,1.987
+1374,Kota Padang Panjang,Jenjang Pendidikan SD,9.127
+1277,Kota Padang Sidimpuan,Jenjang Pendidikan SD,5.467
+1673,Kota Pagar Alam,Jenjang Pendidikan SD,1.8613
+6271,Kota Palangka Raya,Jenjang Pendidikan SD,9.973
+1671,Kota Palembang,Jenjang Pendidikan SD,9.9409
+7373,Kota Palopo,Jenjang Pendidikan SD,7.5549
+7271,Kota Palu,Jenjang Pendidikan SD,5.2292
+1971,Kota Pangkalpinang,Jenjang Pendidikan SD,1.4966
+7372,Kota Parepare,Jenjang Pendidikan SD,2.8169
+1377,Kota Pariaman,Jenjang Pendidikan SD,3.2692
+3575,Kota Pasuruan,Jenjang Pendidikan SD,2.1477
+1376,Kota Payakumbuh,Jenjang Pendidikan SD,6.535
+1471,Kota Pekanbaru,Jenjang Pendidikan SD,2.7542
+1273,Kota Pematangsiantar,Jenjang Pendidikan SD,3.5333
+6171,Kota Pontianak,Jenjang Pendidikan SD,4.162
+1672,Kota Prabumulih,Jenjang Pendidikan SD,1.9817
+3574,Kota Probolinggo,Jenjang Pendidikan SD,0.7702
+1172,Kota Sabang,Jenjang Pendidikan SD,0
+3373,Kota Salatiga,Jenjang Pendidikan SD,0.8915
+6472,Kota Samarinda,Jenjang Pendidikan SD,3.8411
+1373,Kota Sawah Lunto,Jenjang Pendidikan SD,6.383
+3673,Kota Serang,Jenjang Pendidikan SD,3.7667
+1271,Kota Sibolga,Jenjang Pendidikan SD,0.1764
+6172,Kota Singkawang,Jenjang Pendidikan SD,4.7893
+1175,Kota Subulussalam,Jenjang Pendidikan SD,10.4712
+1572,Kota Sungai Penuh,Jenjang Pendidikan SD,19.7697
+3578,Kota Surabaya,Jenjang Pendidikan SD,4.2044
+3372,Kota Surakarta,Jenjang Pendidikan SD,6.8336
+3674,Kota Tangerang Selatan,Jenjang Pendidikan SD,3.8926
+1272,Kota Tanjung Balai,Jenjang Pendidikan SD,10.6013
+2172,Kota Tanjungpinang,Jenjang Pendidikan SD,7.9819
+6571,Kota Tarakan,Jenjang Pendidikan SD,4.4944
+1274,Kota Tebing Tinggi,Jenjang Pendidikan SD,3.6819
+8271,Kota Ternate,Jenjang Pendidikan SD,7.1904
+8272,Kota Tidore Kepulauan,Jenjang Pendidikan SD,7.4169
+7173,Kota Tomohon,Jenjang Pendidikan SD,1.9651
+8172,Kota Tual,Jenjang Pendidikan SD,6.5341
+3471,Kota Yogyakarta,Jenjang Pendidikan SD,0.6849
+6112,Kuburaya,Jenjang Pendidikan SD,18.993
+1223,Labuhan Batu Utara,Jenjang Pendidikan SD,10.0909
+9430,Lanny Jaya,Jenjang Pendidikan SD,22.4344
+5208,Lombok Utara,Jenjang Pendidikan SD,3.7365
+6411,Mahakam Ulu,Jenjang Pendidikan SD,7.2581
+5321,Malaka,Jenjang Pendidikan SD,16.0671
+8108,Maluku Barat Daya,Jenjang Pendidikan SD,7.6923
+7606,Mamuju Tengah,Jenjang Pendidikan SD,27.551
+5319,Manggarai Timur,Jenjang Pendidikan SD,18.9354
+9111,Manokwari Selatan,Jenjang Pendidikan SD,20.4188
+9110,Maybrat,Jenjang Pendidikan SD,11.9497
+9428,Memberamo Raya,Jenjang Pendidikan SD,1.5544
+9431,Membramo Tengah,Jenjang Pendidikan SD,8.6957
+6104,Mempawah,Jenjang Pendidikan SD,13.5554
+1811,Mesuji,Jenjang Pendidikan SD,11.9119
+7109,Minahasa Tenggara,Jenjang Pendidikan SD,14.404
+7106,Minahasa Utara,Jenjang Pendidikan SD,13.4021
+7212,Morowali Utara,Jenjang Pendidikan SD,17.1748
+7413,Muna Barat,Jenjang Pendidikan SD,21.5334
+1613,Musi Rawas Utara,Jenjang Pendidikan SD,18.6
+5318,Nagakeo,Jenjang Pendidikan SD,18.0733
+9429,Nduga,Jenjang Pendidikan SD,6.1069
+1225,Nias Barat,Jenjang Pendidikan SD,20.143
+1224,Nias Utara,Jenjang Pendidikan SD,18.0503
+1221,Padang Lawas,Jenjang Pendidikan SD,13.1086
+1220,Padang Lawas utara,Jenjang Pendidikan SD,11.9353
+3218,Pangandaran,Jenjang Pendidikan SD,16.0963
+7208,Parigi Moutong,Jenjang Pendidikan SD,21.7587
+9112,Pegunungan Arfak,Jenjang Pendidikan SD,61.0108
+1612,Penukal Abab Lematang Ilir,Jenjang Pendidikan SD,11.7866
+1809,Pesawaran,Jenjang Pendidikan SD,26.8456
+1813,Pesisir Barat,Jenjang Pendidikan SD,19.9115
+1118,Pidie Jaya,Jenjang Pendidikan SD,18.7793
+1810,Pringsewu,Jenjang Pendidikan SD,13.1198
+8208,Pulau Taliabu,Jenjang Pendidikan SD,41.5648
+9433,Puncak,Jenjang Pendidikan SD,20.3947
+5320,Sabu Raijua,Jenjang Pendidikan SD,6.9686
+7210,Sigi,Jenjang Pendidikan SD,7.1698
+1304,Sijunjung,Jenjang Pendidikan SD,3.6938
+5310,Sikka,Jenjang Pendidikan SD,19.9235
+5317,Sumba Barat Daya,Jenjang Pendidikan SD,28.2955
+5316,Sumba Tengah,Jenjang Pendidikan SD,13.5785
+9109,Tambrauw,Jenjang Pendidikan SD,27.3723
+6503,Tana Tidung,Jenjang Pendidikan SD,1.5152
+7326,Toraja Utara,Jenjang Pendidikan SD,10.441
+1812,Tulang Bawang Barat,Jenjang Pendidikan SD,22.9068
+9432,Yalimo,Jenjang Pendidikan SD,4
